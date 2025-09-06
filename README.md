@@ -1,6 +1,6 @@
-# Responsive-social-media
+# Responsive-social-media website
 # Overview
-A full-stack social media platform with user authentication, posts, comments, likes, follows, and messaging. Built with a responsive frontend and PostgreSQL database.
+A full-stack social media platform with user authentication, posts, comments, likes, follows, and messaging. Built with a responsive frontend and # PostgreSQL database.
 # Modules
 User Profiles
 Posts,Stories & Media Uploads 
